@@ -122,6 +122,15 @@ img { max-width: 100%; display: block; }
   color: var(--copper);
   font-family: var(--font-mono);
 }
+strong span{
+  display: block;
+  font-family: var(--font-head);
+  font-size: 1.1rem;
+  font-weight: 800;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--white);
+}
 .nav-links {
   display: flex; align-items: center;
   list-style: none;
