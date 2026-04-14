@@ -1,57 +1,60 @@
-# Capital Cables Pakistan — Premium Industrial Theme
+# ⚡ Capital Cables Pakistan — Premium Industrial Website
 
-A high-end, modern, and light-themed corporate website designed for **Capital Cables Pakistan (PVT Limited)**. This project transforms a traditional industrial site into a premium digital experience using sophisticated typography, a clean architectural layout, and a mobile-first responsive design.
+A modern, high-performance, and light-themed corporate website designed for **Capital Cables Pakistan (PVT Limited)**.  
 
-## 🚀 Features
+This project transforms a traditional industrial web presence into a premium digital experience using refined typography, a clean architectural layout, and a fully responsive mobile-first design.
 
--   **Premium Visual Identity**: Uses a sophisticated "Architectural Blue" theme with `#2C5D7F` as the primary brand color.
--   **High-End Typography**: 
-    -   `Playfair Display`: Elegant serif for authoritative headers.
-    -   `Outfit`: Modern, geometric sans-serif for sleek body text.
--   **Fully Responsive**: Fluid layouts that adapt seamlessly from mobile devices to ultra-wide 4k monitors (max-container capped at `1280px` for stability).
--   **Modern UI Components**:
-    -   **Floating WhatsApp Integration**: Persistent communication tool available on all pages.
-    -   **Glassmorphism Navigation**: Semi-transparent, blur-effect header that triggers on scroll.
-    -   **Animated Reveal Effects**: Subtle scroll-based animations for professional entrance.
-    -   **Scrolling Brand Ticker**: Infinite loop ticker for certifications and highlights.
--   **Performance Optimized**: Lightweight CSS and vanilla JavaScript, removing heavy dependencies like jQuery for faster load times.
+🌐 **Live Demo:** https://alyrizwani.github.io/capital-cables-pak/
+
+---
+
+## ✨ Overview
+
+This website is built to reflect a strong industrial identity with a premium digital feel. It focuses on clarity, performance, and trust-building through minimal design and structured content flow.
+
+---
+
+## 🚀 Key Features
+
+### 🎨 Premium Design System
+- Elegant **Architectural Blue** theme (`#2C5D7F`)
+- Clean, corporate-grade visual identity
+- Balanced white space and structured layouts
+
+### ✍️ Typography
+- **Playfair Display** → Elegant serif for headings
+- **Outfit** → Modern sans-serif for body text
+
+### 📱 Fully Responsive
+- Mobile-first layout
+- Seamless experience across phones, tablets, and 4K displays
+- Max-width container (`1280px`) for readability and consistency
+
+### 🧩 Modern UI Components
+- Floating **WhatsApp contact button**
+- Glassmorphism-style navigation bar (scroll-based effect)
+- Smooth scroll reveal animations
+- Infinite scrolling brand/certification ticker
+
+### ⚡ Performance Optimized
+- Lightweight **vanilla JavaScript (ES6)**
+- No heavy frameworks or libraries (no jQuery)
+- Optimized CSS architecture for fast loading
+
+---
 
 ## 📂 Project Structure
 
 ```text
-├── about.html                # Corporate history and mission
-├── contact.html              # Lead generation and location map
-├── index.html                # Unified homepage with value props
-├── products.html             # Categorized cable catalog
-├── projects.html             # Portfolio of completed industrial work
-├── quality-certifications.html # Compliance and standards (IEC, BSS, UL)
-├── why-choose-us.html        # Competitive advantages
-├── script.js                 # Scroll logic and mobile menu toggler
-├── style.css                 # Custom CSS variable system and layout engine
-└── assests/                  # Optimized logos and image assets
-```
-
-## 🛠️ Tech Stack
-
--   **HTML5**: Semantic structure for SEO optimization.
--   **CSS3**: Advanced Grid/Flexbox layouts and custom variable shadowing.
--   **JavaScript (ES6)**: Pure vanilla JS for interactive elements.
--   **Google Fonts**: Integrated 'Playfair Display' and 'Outfit'.
-
-## 🔧 Installation & Customization
-
-1.  **Clone the Repository**:
-    ```bash
-    git clone https://github.com/your-username/capital-cables-pk.git
-    ```
-2.  **Edit Brand Links**: 
-    -   Open all `.html` files and replace the dummy WhatsApp number (`923001234567`) in the `whatsapp-btn` link with your actual business number.
-3.  **Update Colors**: 
-    -   Modify the `:root` variables in `style.css` to change the primary brand colors globally.
-
-## 📝 License
-
-This project was custom-built for Capital Cables Pakistan. All rights reserved.
-
----
-*Powered by GitHub Copilot*
+├── index.html                  # Home page (company overview & value proposition)
+├── about.html                 # Company history, vision, and mission
+├── products.html              # Product catalog with categories
+├── projects.html              # Completed industrial projects portfolio
+├── contact.html               # Contact page with lead form & map
+├── why-choose-us.html         # Competitive advantages & strengths
+├── quality-certifications.html # Compliance (IEC, BS, UL standards)
+│
+├── style.css                 # Global styling system (variables + layout)
+├── script.js                 # UI interactions (menu, scroll effects)
+│
+└── assets/                   # Logos, images, and media files
