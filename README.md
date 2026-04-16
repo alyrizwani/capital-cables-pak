@@ -1,4 +1,4 @@
-# ⚡ Capital Cables Pakistan — Premium Industrial Website
+#  Capital Cables Pakistan — Premium Industrial Website
 
 A modern, high-performance, and light-themed corporate website designed for **Capital Cables Pakistan (PVT Limited)**.  
 
