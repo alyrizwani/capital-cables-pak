@@ -115,6 +115,9 @@ img { max-width: 100%; display: block; }
   text-transform: uppercase;
   color: var(--white);
 }
+#cables{
+  background-color: #111418;
+}
 .nav-brand .brand-txt span {
   font-size: .6rem;
   letter-spacing: 3px;
